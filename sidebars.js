@@ -343,14 +343,7 @@ module.exports = {
         "invitation/overview",
       ],
     },
-    {
-      type: "category",
-      label: "IP Whitelist",
-      link: {type: "generated-index"},
-      items: [
-        "ip-whitelist/ip-whitelist",
-      ],
-    },
+    "ip-whitelist",
     {
       type: "category",
       label: "Syncer",

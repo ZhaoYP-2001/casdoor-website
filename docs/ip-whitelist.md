@@ -1,5 +1,5 @@
 ---
-title: Overview
+title: IP Whitelist
 description: Support IP limitation for user entry pages.
 keywords: [ip, whitelist, ip whitelist]
 authors: [ZhaoYP-2001]
